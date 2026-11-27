@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# Camilla Braghiroli
-· Communication Student · 
+
+Communication Student · 
 
 📍 San Benedetto Po (MN), Italy  |  ✉️ camilla@braghiroli.it  |  📞 +39 331 110 4948
 </div>
@@ -19,7 +19,8 @@ During my third year, I studied at the [University of Málaga](https://www.uma.e
 Languages: Italian (native) · Spanish · English 
 
 
-
+&nbsp;
+&nbsp;
 
 
 ## Experience
@@ -49,7 +50,8 @@ Remote · 01/2023 – 04/2023
 Wrote articles on current affairs and culture, focusing on youth, women's rights and empowerment.
 [Read my publications](https://www.ultimavoce.it/?s=Camilla+Braghiroli).
 
-
+&nbsp;
+&nbsp;
 
 ## Education
 
@@ -82,12 +84,13 @@ Mantova · 2017 – 2022 · 100/100
 61st Merit Award from Confindustria Mantova, given to students graduating with top marks in the 2021–2022 academic year.
 Commendation letter for academic merit (2021/2022) from the Liceo Classico e Linguistico Virgilio.
 
-
+&nbsp;
+&nbsp;
 
 ## Interests
 <p align="center"> <img src="imgs/magtomag.JPG" alt="Mag to Mag festival" width="400"> </p>
 
-Independent magazines · I'm really into indie magazines, which is why I follow the Mag to Mag festival every year, and why I volunteer there.
+I'm really into indie magazines, which is why I follow the Mag to Mag festival every year, and why I volunteer there.
 
 
 
