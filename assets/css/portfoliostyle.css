@@ -1,4 +1,306 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 img {
-align-content: center;
-width: 400;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #2C2E33;
+    background-color: #FFFFFF;
+    line-height: 1.65;
+}
+
+a {
+    color: #5C1D24;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #4A5D4E;
+}
+
+/* --- HERO SECTION --- */
+.hero {
+    background-color: #F4F1F2; /* Cipria/grigio-lilla tenue dai fiori */
+    padding: 4.5rem 5% 4rem;
+    text-align: center;
+    border-bottom: 1px solid #E5DFE1;
+}
+
+.hero-container {
+    max-width: 48rem;
+    margin: 0 auto;
+}
+
+.profile-pic {
+    width: 10.5rem;
+    height: 10.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 15%; /* Centra viso e corona d'alloro */
+    border: 4px solid #5C1D24; /* Bordeaux tailleur */
+    box-shadow: 0 8px 20px rgba(92, 29, 36, 0.15);
+    margin: 0 auto 1.5rem;
+}
+
+.subtitle {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: #4A5D4E; /* Verde salvia/alloro */
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+}
+
+.hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.8rem;
+    color: #5C1D24;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+.bio-short {
+    font-size: 1.05rem;
+    color: #4A4D52;
+    max-width: 38rem;
+    margin: 0 auto 2rem;
+}
+
+/* Bottoni a pillola */
+.contact-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+}
+
+.pill-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.55rem 1.35rem;
+    border: 1.5px solid #5C1D24;
+    border-radius: 999px;
+    color: #5C1D24;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    background-color: transparent;
+    transition: all 0.2s ease;
+}
+
+.pill-btn:hover {
+    background-color: #5C1D24;
+    color: #FFFFFF;
+}
+
+/* --- CONTENUTO PRINCIPALE --- */
+.content {
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 3.5rem 5%;
+}
+
+.section {
+    margin-bottom: 3.5rem;
+}
+
+.section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.85rem;
+    color: #2C2E33;
+    margin-bottom: 0.5rem;
+}
+
+.accent-line {
+    width: 3rem;
+    height: 3px;
+    background-color: #5C1D24;
+    margin-bottom: 1.75rem;
+    border-radius: 2px;
+}
+
+.section p {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #3B3E45;
+}
+
+.languages {
+    margin-top: 1.25rem;
+    padding-top: 1rem;
+    border-top: 1px solid #EAE6E7;
+    color: #4A5D4E;
+}
+
+/* --- VOCI DI ESPERIENZA E FORMAZIONE --- */
+.entry {
+    margin-bottom: 2rem;
+    padding-left: 1rem;
+    border-left: 2px solid #E5DFE1;
+}
+
+.entry:hover {
+    border-left-color: #5C1D24;
+}
+
+.entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.4rem;
+}
+
+.entry-header h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #2C2E33;
+}
+
+.entry-meta {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #4A5D4E;
+}
+
+.clean-list {
+    margin: 0.5rem 0 1rem 1.25rem;
+    color: #3B3E45;
+}
+
+.clean-list li {
+    margin-bottom: 0.35rem;
+}
+
+/* --- IMMAGINI NELLE SEZIONI --- */
+.section-banner {
+    margin: 1.25rem 0 1.75rem;
+}
+
+.section-banner img {
+    width: 100%;
+    max-height: 20rem;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+/* Card affiancata per Interests */
+.media-card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: #F4F1F2;
+    padding: 1.25rem;
+    border-radius: 12px;
+}
+
+.media-card img {
+    width: 14rem;
+    height: 10rem;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.media-card p {
+    margin-bottom: 0;
+}
+
+/* Card cliccabile per Projects */
+.project-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25rem 1.5rem;
+    border: 1.5px solid #E5DFE1;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #2C2E33;
+    transition: all 0.2s ease;
+}
+
+.project-card:hover {
+    border-color: #5C1D24;
+    background-color: #F4F1F2;
+    color: #5C1D24;
+}
+
+.project-card h4 {
+    font-size: 1.05rem;
+    margin-bottom: 0.2rem;
+}
+
+.project-card p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #4A5D4E;
+}
+
+/* --- FOOTER --- */
+.site-footer {
+    background-color: #F4F1F2;
+    border-top: 1px solid #E5DFE1;
+    text-align: center;
+    padding: 2.5rem 5%;
+    font-size: 0.95rem;
+    color: #2C2E33;
+}
+
+.site-footer a {
+    font-weight: 600;
+    margin-left: 0.4rem;
+}
+
+/* --- MEDIA QUERY PER TELEFONO --- */
+@media (max-width: 700px) {
+    .hero {
+        padding: 3rem 5%;
+    }
+
+    .hero h1 {
+        font-size: 2.1rem;
+    }
+
+    .profile-pic {
+        width: 8.5rem;
+        height: 8.5rem;
+    }
+
+    .contact-pills {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .pill-btn {
+        width: 85%;
+        justify-content: center;
+    }
+
+    .entry-header {
+        flex-direction: column;
+        gap: 0.15rem;
+    }
+
+    .media-card {
+        flex-direction: column;
+        text-align: left;
+    }
+
+    .media-card img {
+        width: 100%;
+        height: 13rem;
+    }
 }

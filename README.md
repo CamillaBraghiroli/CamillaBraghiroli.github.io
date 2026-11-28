@@ -1,8 +1,10 @@
 
+
 <div align="center">
 
+Camilla Braghiroli
 
-**Communication Student**
+Communication Student
 
 &nbsp;
 
@@ -37,7 +39,7 @@ Welcome national and international visitors, offering guidance on local attracti
 Manage ticket sales and the bookshop.
 
 
-#### Editorial Intern — [Frab's Magazine & Mor](https://frabsmagazines.com/)
+#### Editorial Intern — [Frab's Magazine & More](https://frabsmagazines.com/)
 
 Milan · 12/09/2025 – 09/10/2025
 
