@@ -2,7 +2,11 @@
 <div align="center">
 
 
+<<<<<<< HEAD
 Communication Student 
+=======
+**Communication Student**
+>>>>>>> 78d1304 (update)
 &nbsp;
 
 📍 San Benedetto Po (MN), Italy  |  ✉️ camilla@braghiroli.it  |  📞 +39 331 110 4948
@@ -11,7 +15,7 @@ Communication Student
 
 
 ## About Me
-<p align="center"> <img src="imgs/graduation.jpg" alt="Camilla at her graduation" width="400"> </p>
+<p align="center"> <img src="assets/imgs/graduation.jpg" alt="Camilla at her graduation" width="400"> </p>
 
 I'm a master's student with a bachelor's degree in Humanistic Sciences for Communication from the [University of Florence](https://www.unifi.it/it/studia-con-noi/corsi-di-laurea/corsi-di-laurea-triennali-e-a-ciclo-unico/scienze-umanistiche-la).
 
@@ -24,10 +28,11 @@ Languages: Italian (native) · Spanish · English
 &nbsp;
 
 
-## Experience
-<p align="center"> <img src="imgs/sambe.jpg" alt="San Benedetto Po" width="400"> </p>
+ ## Experience 
+ 
+<p align="center"> <img src="assets/imgs/sambe.jpg" alt="San Benedetto Po" width="400"> </p>
 
-### Tourist Information & Visitor Services Assistant
+#### Tourist Information & Visitor Services Assistant
 
 San Benedetto Po · Present
 
@@ -35,7 +40,7 @@ Welcome national and international visitors, offering guidance on local attracti
 Manage ticket sales and the bookshop.
 
 
-### Editorial Intern — [Frab's Magazine & Mor](https://frabsmagazines.com/)
+#### Editorial Intern — [Frab's Magazine & Mor](https://frabsmagazines.com/)
 
 Milan · 12/09/2025 – 09/10/2025
 
@@ -44,7 +49,7 @@ Supported the organisation of Mag to Mag, the independent magazine festival, and
 Coordinated the Frab's pop-up shop at Fashion Graduate Italia, independently handling sales and visitor reception.
 Wrote an article for the website: ["Uno squarcio nel sipario: il festival dagli occhi dei volontari"](https://frabsmagazines.com/blogs/frabs-blog/uno-squarcio-nel-sipario-il-festival-dagli-occhi-dei-volontari?srsltid=AY6E9610JQ4VfFO59u2OWCD90DEHQ1Gjds-zkffYdAkZhxf20WUhtO8T). 
 
-### Article Writer — [UltimaVoce](https://www.ultimavoce.it/)
+#### Article Writer — [UltimaVoce](https://www.ultimavoce.it/)
 
 Remote · 01/2023 – 04/2023
 
@@ -56,17 +61,17 @@ Wrote articles on current affairs and culture, focusing on youth, women's rights
 
 ## Education
 
-### Master's Degree
+#### Master's Degree 
 
 Corporate Communication · University of Milan · 2026 – Present
 
-### Bachelor's Degree in Humanistic Sciences for Communication
+#### Bachelor's Degree in Humanistic Sciences for Communication
 
 University of Florence · 2022 – 2025 · 110/110
 
-<p align="center"> <img src="imgs/malaga.webp" alt="Malaga" width="400"> </p>
+<p align="center"> <img src="assets/imgs/malaga.webp" alt="Malaga" width="400"> </p>
 
-### Erasmus+ — Universidad de Málaga
+#### Erasmus+ — Universidad de Málaga
 
 Málaga, Spain · 2024 – 2025
 
@@ -75,10 +80,10 @@ Coursework carried out entirely in Spanish, including:
 - An advertising campaign for a second-hand clothing store.
 - Articles and film reviews written in the target language.
 - Character development and screenwriting for a TV series episode.
-- A full campaign for the [Monkey Week music festival](https://monkeyweek.org/en/): logo, posters, festival signage and audiovisual content.
+- A full campaign for the Monkey Week music festival: logo, posters, festival signage and audiovisual content.
 
 
-### Diploma — Liceo Linguistico Virgilio
+#### Diploma — Liceo Linguistico Virgilio
 
 Mantova · 2017 – 2022 · 100/100
 
@@ -89,11 +94,12 @@ Commendation letter for academic merit (2021/2022) from the Liceo Classico e Lin
 &nbsp;
 
 ## Interests
-<p align="center"> <img src="imgs/magtomag.JPG" alt="Mag to Mag festival" width="400"> </p>
+<p align="center"> <img src="assets/imgs/magtomag.JPG" alt="Mag to Mag festival" width="400"> </p>
 
 I'm really into indie magazines, which is why I follow the Mag to Mag festival every year, and why I volunteer there.
 
-
+## Projects
+- [Refactory of MA COM landing page](CamillaBraghiroli.github.io-ma-com-new) 
 
 <div align="center">
 
