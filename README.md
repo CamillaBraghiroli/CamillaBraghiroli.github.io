@@ -96,7 +96,7 @@ Commendation letter for academic merit (2021/2022) from the Liceo Classico e Lin
 I'm really into indie magazines, which is why I follow the Mag to Mag festival every year, and why I volunteer there.
 
 ## Projects
-- [Refactory of MA COM landing page](https://ale66.github.io/learn-web-playground-2026-27/essays/CamillaBraghiroli/) 
+- [Refactory of MA COM landing page](https://ale66.github.io/learn-web-playground-2026-27/essays/CamillaBraghiroli/camindex.html) 
 
 <div align="center">
 
