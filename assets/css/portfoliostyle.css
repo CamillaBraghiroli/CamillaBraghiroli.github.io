@@ -28,9 +28,9 @@ a:hover {
     color: #4A5D4E;
 }
 
-/* --- HERO SECTION --- */
+
 .hero {
-    background-color: #F4F1F2; /* Cipria/grigio-lilla tenue dai fiori */
+    background-color: #F4F1F2;
     padding: 4.5rem 5% 4rem;
     text-align: center;
     border-bottom: 1px solid #E5DFE1;
@@ -46,8 +46,8 @@ a:hover {
     height: 10.5rem;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center 15%; /* Centra viso e corona d'alloro */
-    border: 4px solid #5C1D24; /* Bordeaux tailleur */
+    object-position: center 15%; 
+    border: 2px solid #5C1D24; 
     box-shadow: 0 8px 20px rgba(92, 29, 36, 0.15);
     margin: 0 auto 1.5rem;
 }
@@ -143,7 +143,7 @@ a:hover {
     color: #4A5D4E;
 }
 
-/* --- VOCI DI ESPERIENZA E FORMAZIONE --- */
+
 .entry {
     margin-bottom: 2rem;
     padding-left: 1rem;
@@ -197,7 +197,7 @@ a:hover {
     box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
 }
 
-/* Card affiancata per Interests */
+
 .media-card {
     display: flex;
     align-items: center;
@@ -219,7 +219,7 @@ a:hover {
     margin-bottom: 0;
 }
 
-/* Card cliccabile per Projects */
+
 .project-card {
     display: flex;
     justify-content: space-between;
@@ -249,7 +249,7 @@ a:hover {
     color: #4A5D4E;
 }
 
-/* --- FOOTER --- */
+
 .site-footer {
     background-color: #F4F1F2;
     border-top: 1px solid #E5DFE1;
@@ -264,7 +264,7 @@ a:hover {
     margin-left: 0.4rem;
 }
 
-/* --- MEDIA QUERY PER TELEFONO --- */
+
 @media (max-width: 700px) {
     .hero {
         padding: 3rem 5%;

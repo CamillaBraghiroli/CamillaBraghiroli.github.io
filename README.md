@@ -8,7 +8,7 @@ Communication Student
 
 &nbsp;
 
-📍 San Benedetto Po (MN), Italy  |  ✉️ camilla@braghiroli.it  |  📞 +39 331 110 4948
+ San Benedetto Po (MN), Italy  |  camilla@braghiroli.it  |   +39 331 110 4948
 </div>
 
 
@@ -102,7 +102,7 @@ I'm really into indie magazines, which is why I follow the Mag to Mag festival e
 
 <div align="center">
 
-📬 Let's connect!   camilla@braghiroli.it
+Let's connect!   camilla@braghiroli.it
 
 </div>
 
