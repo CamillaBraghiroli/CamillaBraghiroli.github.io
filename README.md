@@ -2,11 +2,8 @@
 <div align="center">
 
 
-<<<<<<< HEAD
-Communication Student 
-=======
 **Communication Student**
->>>>>>> 78d1304 (update)
+
 &nbsp;
 
 📍 San Benedetto Po (MN), Italy  |  ✉️ camilla@braghiroli.it  |  📞 +39 331 110 4948
