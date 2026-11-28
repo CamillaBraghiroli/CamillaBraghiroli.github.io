@@ -56,7 +56,7 @@ a:hover {
     font-size: 0.78rem;
     font-weight: 600;
     letter-spacing: 0.12em;
-    color: #4A5D4E; /* Verde salvia/alloro */
+    color: #4A5D4E; 
     text-transform: uppercase;
     margin-bottom: 0.75rem;
 }
@@ -76,7 +76,7 @@ a:hover {
     margin: 0 auto 2rem;
 }
 
-/* Bottoni a pillola */
+
 .contact-pills {
     display: flex;
     flex-wrap: wrap;
@@ -104,7 +104,7 @@ a:hover {
     color: #FFFFFF;
 }
 
-/* --- CONTENUTO PRINCIPALE --- */
+
 .content {
     max-width: 48rem;
     margin: 0 auto;
@@ -184,7 +184,7 @@ a:hover {
     margin-bottom: 0.35rem;
 }
 
-/* --- IMMAGINI NELLE SEZIONI --- */
+
 .section-banner {
     margin: 1.25rem 0 1.75rem;
 }
